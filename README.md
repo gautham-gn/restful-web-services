@@ -1,5 +1,4 @@
-**HW2 | Cloud Computing** 
-Nagendra Gautham Gondi
+
 
 Application:
 
